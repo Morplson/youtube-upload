@@ -1,4 +1,6 @@
-
+youtube.com.json
+geckodriver.exe
+geckodriver.log
 *.mp4
 *.png
 *.mov
